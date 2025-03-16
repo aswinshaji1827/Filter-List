@@ -3,5 +3,16 @@ youtube.com
 m.youtube.com
 
 
-! Mar 16, 2025 https://cleartax.in
+! https://cleartax.in
 cleartax.in##.z-150.sm\:inline-block.hidden.px-5.shadow-2xl.pb-5.pt-2\.5.w-full.bg-white.bottom-0.left-0.fixed
+
+! https://www.manoramanews.com
+www.manoramanews.com###container-93eb002729 > .embed > .cmp-embed > .comp-ad.text-center
+www.manoramanews.com###container-b4ca7c824b > .embed > .cmp-embed > .comp-ad.text-center
+www.manoramanews.com##.stories.comp-list > .comp-list--title
+www.manoramanews.com##.stories.comp-list > .slick-slider.slick-initialized.comp-list--slider > .slick-list > .slick-track > li.slick-slide.item > .item-video > .item-video--cover-img
+www.manoramanews.com##.stories.comp-list > .slick-slider.slick-initialized.comp-list--slider > .slick-list > .slick-track
+www.manoramanews.com##.stories.comp-list > .slick-slider.slick-initialized.comp-list--slider > .slick-arrow.slick-prev
+www.manoramanews.com##.stories.comp-list > .slick-slider.slick-initialized.comp-list--slider > .slick-arrow.slick-next
+www.manoramanews.com##.stories.comp-list
+www.manoramanews.com##.header-top-option > .share-social-icons > .social-icons
