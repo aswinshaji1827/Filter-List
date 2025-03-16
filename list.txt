@@ -1,6 +1,7 @@
 www.youtube.com
 youtube.com
 m.youtube.com
+||youtube.com^$redirect=about:blank
 
 
 ! https://cleartax.in
