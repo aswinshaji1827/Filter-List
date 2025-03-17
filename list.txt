@@ -1,14 +1,13 @@
+! youtube
 www.youtube.com
 youtube.com
 m.youtube.com
-||youtube.com^$redirect=about:blank
 
-
-! https://cleartax.in
+! cleartax
 cleartax.in##.z-150.sm\:inline-block.hidden.px-5.shadow-2xl.pb-5.pt-2\.5.w-full.bg-white.bottom-0.left-0.fixed
 cleartax.in##.webinar-banner-cta
 
-! https://www.manoramanews.com
+! manoramanews
 www.manoramanews.com###container-93eb002729 > .embed > .cmp-embed > .comp-ad.text-center
 www.manoramanews.com###container-b4ca7c824b > .embed > .cmp-embed > .comp-ad.text-center
 www.manoramanews.com##.stories.comp-list > .comp-list--title
