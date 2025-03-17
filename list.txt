@@ -17,3 +17,21 @@ www.manoramanews.com##.stories.comp-list > .slick-slider.slick-initialized.comp-
 www.manoramanews.com##.stories.comp-list > .slick-slider.slick-initialized.comp-list--slider > .slick-arrow.slick-next
 www.manoramanews.com##.stories.comp-list
 www.manoramanews.com##.header-top-option > .share-social-icons > .social-icons
+www.manoramanews.com###container-6d1ffaf3e3 > .embed > .cmp-embed > .text-center.comp-ad
+www.manoramanews.com###container-dd7ef2deb6 > .embed > .cmp-embed > .text-center.comp-ad
+www.manoramanews.com###container-09c9a303c4 > .embed > .cmp-embed > .text-center.comp-ad
+www.manoramanews.com###container-86e4edfe0b > .embed > .cmp-embed > .text-center.comp-ad
+www.manoramanews.com###container-5ff6d6496e > .embed > .cmp-embed > .text-center.comp-ad
+www.manoramanews.com###dfp-ad-lb1
+www.manoramanews.com###container-c8090e070b > .embed > .cmp-embed > .text-center.comp-ad
+www.manoramanews.com###dfp-ad-midarticle
+www.manoramanews.com###container-4d76b9ab86 > .embed > .cmp-embed > .text-center.comp-ad
+www.manoramanews.com###container-1e1a0fdfea > .embed > .cmp-embed > .text-center.comp-ad
+www.manoramanews.com###container-4c1284f75b > .embed > .cmp-embed > .text-center.comp-ad
+www.manoramanews.com##.footer
+www.manoramanews.com###dfp-ad-lb2
+www.manoramanews.com###container-24b455f4aa > .embed > .cmp-embed > .text-center.comp-ad
+www.manoramanews.com##.comp-list.portraitSlide.portraitSlide-wdh-bg
+www.manoramanews.com###container-88a573eba6 > .embed > .cmp-embed > .text-center.comp-ad
+
+
