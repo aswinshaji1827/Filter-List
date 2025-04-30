@@ -1,5 +1,4 @@
 ! youtube
-https://m.youtube.com/
 www.youtube.com
 youtube.com
 m.youtube.com
